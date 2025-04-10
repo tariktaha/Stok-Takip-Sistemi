@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|c:\\users\\tarikz\\source\\repos\\bonusmvcstok\\bonusmvcstok\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\bonusmvcstok\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\bonusmvcstok\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\bonusmvcstok\\views\\kategori\\yenikategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\views\\kategori\\yenikategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\bonusmvcstok\\views\\girisyap\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\views\\girisyap\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\bonusmvcstok\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED675F99-67BA-4916-9866-0E8705CBBE9F}|BonusMvcStok\\BonusMvcStok.csproj|solutionrelative:bonusmvcstok\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "BonusMvcStok\\Controllers\\KategoriController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T04:16:02.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Giris.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\GirisYap\\Giris.cshtml",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Views\\GirisYap\\Giris.cshtml",
+              "ToolTip": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\GirisYap\\Giris.cshtml",
+              "RelativeToolTip": "BonusMvcStok\\Views\\GirisYap\\Giris.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T16:44:46.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YeniKategori.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "ToolTip": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "RelativeToolTip": "BonusMvcStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:17:14.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KategoriGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "ToolTip": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "RelativeToolTip": "BonusMvcStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:17:11.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "BonusMvcStok\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T01:31:40.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BonusMvcStok\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\tarikz\\source\\repos\\BonusMvcStok\\BonusMvcStok\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BonusMvcStok\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T04:08:59.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
